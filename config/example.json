@@ -1,0 +1,17 @@
+{
+    "name": "Naveed Usmani",
+    "age": 31,
+    "weight": 83.40,
+    "education": [
+        {
+            "degree": "BE",
+            "major": "Electronic Engineering"
+        }
+    ],
+    "experience": {
+        "Enway GmbH": {
+            "title": "Robotics Software Engineer",
+            "location": "Berlin, Germany"
+        }
+    }
+}
